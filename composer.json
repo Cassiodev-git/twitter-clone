@@ -1,0 +1,14 @@
+{
+    "name": "cassio/miniframework",
+    "description": "Mini framework MVC do Cassio para estudo",
+    "license": "proprietary",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "MF\\": "vendor/MF/"
+        }
+    }
+}
