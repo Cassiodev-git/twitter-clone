@@ -1,21 +1,39 @@
-Este projeto é um Twitter Clone desenvolvido em PHP, com arquitetura MVC, como parte do meu processo de aprendizado em desenvolvimento backend.
+# Twitter Clone
 
-A aplicação permite:
+Aplicação web inspirada no Twitter, desenvolvida em **PHP**, com foco em backend e arquitetura MVC.
 
-Cadastro e autenticação de usuários
+O projeto foi criado para consolidar conceitos de desenvolvimento web, organização de código e interação com banco de dados, simulando funcionalidades básicas de uma rede social.
 
-Publicação e remoção de tweets
+---
 
-Sistema de seguir e deixar de seguir usuários
+## 📌 Funcionalidades
+- Cadastro e autenticação de usuários
+- Publicação e remoção de tweets
+- Timeline personalizada
+- Sistema de seguir e deixar de seguir usuários
+- Contagem de tweets, seguidores e seguindo
+- Controle de acesso via sessões
 
-Timeline personalizada
+---
 
-Contagem de tweets, seguidores e seguindo
+## 🛠️ Tecnologias Utilizadas
+- PHP
+- MVC (Model-View-Controller)
+- MySQL
+- PDO
+- HTML
+- CSS
 
-Controle de acesso via sessões
+---
 
-Integração com banco de dados relacional
+## 🎯 Objetivo
+Projeto desenvolvido para fins educacionais e portfólio, com foco no aprendizado de:
+- arquitetura MVC
+- lógica de backend
+- autenticação de usuários
+- relacionamento entre entidades
 
-O foco principal do projeto foi entender e aplicar corretamente a separação de responsabilidades, organização de código, manipulação de dados e fluxo de autenticação, simulando um cenário real de aplicação web.
+---
 
-Projeto desenvolvido para fins educacionais, com foco em backend.
+## 🚧 Status do Projeto
+Funcional e aberto para melhorias e refatorações futuras.
